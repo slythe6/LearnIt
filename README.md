@@ -41,11 +41,6 @@ LearnIt is an interactive and engaging quiz application designed to facilitate l
 4. **View Results**: Check your score, review answers, and see performance details.
 5. **Track Progress**: Access your profile to view past quiz results and compare scores.
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-- [Contributor Name](https://github.com/contributorusername)
-
 ## Support
 
 For any queries, suggestions, or issues, please contact us at [support@learnitquiz.com](mailto:support@learnitquiz.com).
